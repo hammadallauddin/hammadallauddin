@@ -28,6 +28,7 @@
 ---
 
 <img align="left" alt="Hammad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hammadallauddin&show_icons=true&hide_border=true" />
+(https://github-readme-stats.vercel.app/api/top-langs/?username=hammadallauddin&layout=compact)](https://github.com/hammadallauddin/github-readme-stats)
 
 [twitter]: https://twitter.com/hammadallauddin
 [instagram]: https://instagram.com/hammadallauddin
