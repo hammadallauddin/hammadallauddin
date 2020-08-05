@@ -1,6 +1,6 @@
 ### Hello, I am Hammad!
 
-## I'm a Data Science, and Blockchain Enthousiast!
+## I'm a Data Science and Blockchain Enthousiast!
 - 🔭 I’m currently working as Software Engineer!
 - 🌱 I’m currently trying to learn everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
