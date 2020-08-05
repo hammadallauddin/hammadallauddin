@@ -1,4 +1,4 @@
-### Hi there, I'm Hammad Allauddin 👋
+### Hello, I am Hammad!
 
 ## I'm a Data Science, and Blockchain Enthousiast!
 - 🔭 I’m currently working as Software Engineer!
