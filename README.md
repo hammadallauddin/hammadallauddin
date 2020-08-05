@@ -24,6 +24,7 @@
 <img align="left" alt="Spring Boot" width="28px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 <img align="left" alt="Java" width="32px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
 <img align="left" alt="Python" width="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="Jupyter Notebook" width="32px" src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" />
 <img align="left" alt="Javascript" width="32px" src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" />
 <img align="left" alt="Docker" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="Jasper" width="32px" src="https://yt3.ggpht.com/-dJy8QDMV7gk/AAAAAAAAAAI/AAAAAAAAAAA/gG3Y66l9HNI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" />
