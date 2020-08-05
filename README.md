@@ -2,9 +2,9 @@
 
 ## I'm a Data Science and Blockchain Enthousiast!
 
-🤔 Exploring new technologies and developing software solutions and quick hacks.
-🎓 Studying Data Science at NED University of Engineering and Technology.
-💼 Working as a Software Engineer.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Data Science at NED University of Engineering and Technology.
+- 💼 Working as a Software Engineer.
 
 ### Connect with me:
 
