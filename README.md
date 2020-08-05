@@ -1,9 +1,10 @@
 ### Hello, I am Hammad!
 
 ## I'm a Data Science and Blockchain Enthousiast!
-- 🔭 I’m currently working as Software Engineer!
-- 🌱 I’m currently trying to learn everything 🤣
-- 🥅 Goals: Contribute more to Open Source projects
+
+🤔 Exploring new technologies and developing software solutions and quick hacks.
+🎓 Studying Data Science at NED University of Engineering and Technology.
+💼 Working as a Software Engineer.
 
 ### Connect with me:
 
