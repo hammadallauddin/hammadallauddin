@@ -17,10 +17,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Ethereum" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/628px-Ethereum_logo_2014.svg.png" />
-<img align="left" alt="Solidity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
-<img align="left" alt="Java" width="30px" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="Solidity" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />
+<img align="left" alt="Spring Boot" width="28px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
+<img align="left" alt="Java" width="32px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
+<img align="left" alt="Python" width="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 
 <br />
 <br />
