@@ -18,9 +18,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="Python" width="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="AWS" width="28px" src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" />
 <img align="left" alt="Spring Boot" width="28px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
+<img align="left" alt="Java" width="40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
+<img align="left" alt="Kotlin" width="40px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1" />
+<img align="left" alt="Python" width="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Javascript" width="40px" src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" />
 <img align="left" alt="Docker" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
