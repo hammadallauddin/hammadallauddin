@@ -18,14 +18,14 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="AWS" width="40px" src="https://panduz.net/wp-content/uploads/2021/02/aws-logo.jpg" />
-<img align="left" alt="Spring Boot" width="28px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
-<img align="left" alt="Java" width="40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="Kotlin" width="40px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1" />
-<img align="left" alt="Python" width="40px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="Jupyter Notebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Docker" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="Kubernetes" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
+<img align="left" alt="AWS" width="50px" height="50px" src="https://panduz.net/wp-content/uploads/2021/02/aws-logo.jpg" />
+<img align="left" alt="Spring Boot" width="50px" height="50px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
+<img align="left" alt="Java" width="50px" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
+<img align="left" alt="Kotlin" width="50px" height="50px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1" />
+<img align="left" alt="Python" width="50px"height="50px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="Jupyter Notebook" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="Docker" width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
+<img align="left" alt="Kubernetes" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
 <br />
 <br />
 
