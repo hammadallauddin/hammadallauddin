@@ -26,7 +26,7 @@
 <img align="left" alt="Docker" width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="Kubernetes" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
 <img align="left" alt="Jenkins" width="40px" height="40px" src="https://www.pngitem.com/pimgs/m/340-3408094_jenkins-ci-hd-png-download.png" />
-<img align="left" alt="Kibana" width="40px" height="40px" src="https://s3.amazonaws.com/tracxn-data-image/logo/company/93f4774d22076c49f7c97b45514b03e" />
+<img align="left" alt="Kibana" width="40px" height="40px" src="https://miro.medium.com/max/400/1*8j8fs_OnB1cnjQ1CbEbZkA.png" />
 <img align="left" alt="Grafana" width="40px" height="40px" src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" />
 <br />
 <br />
