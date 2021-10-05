@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="AWS" width="50px" height="50px" src="https://panduz.net/wp-content/uploads/2021/02/aws-logo.jpg" />
-<img align="left" alt="Spring Boot" width="50px" height="50px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />
+<img align="left" alt="Spring Boot" width="50px" height="50px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />
 <img align="left" alt="Java" width="50px" height="50px" src="https://cdn.freelogovectors.net/svg05/java-logo.svg" />
 <img align="left" alt="Kotlin" width="50px" height="50px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1" />
 <img align="left" alt="Python" width="50px"height="50px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
