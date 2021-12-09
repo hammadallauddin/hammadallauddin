@@ -3,8 +3,8 @@
 ## I'm a Software Engineer and Data Science Enthousiast!
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying Data Science at NED University of Engineering and Technology.
-- 💼 Working as a Software Engineer.
+- 🎓 Studied Data Science and Software Engineering from NED University of Engineering and Technology.
+- 💼 Working as a Software Engineer at Careem.
 
 ### Connect with me:
 
