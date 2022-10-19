@@ -8,14 +8,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hammadallauddin | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hammadallauddin | Reddit" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="hammadallauddin | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
-[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-[<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="hammadallauddin | Stackoverflow" width="22px" src="https://img.icons8.com/dusk/344/code.png" />][stackoverflow]
+[<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="hammadallauddin | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram1]
+[<img align="left" alt="hammadallauddin | Reddit" width="40px" src="https://img.icons8.com/doodle/344/reddit--v4.png" />][reddit]
+[<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />][facebook]
+[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram2]
+[<img align="left" alt="hammadallauddin | Youtube" width="40px" src="https://img.icons8.com/fluency/344/youtube-play.png" />][youtube]
 
 <br /><br /><br />
 
