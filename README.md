@@ -35,7 +35,9 @@
 
 [twitter]: https://twitter.com/hammadallauddin
 [instagram]: https://instagram.com/hammadallauddin
+[instagram]: https://instagram.com/code_eat_explore
 [linkedin]: https://linkedin.com/in/hammadallauddin
 [stackoverflow]: https://stackoverflow.com/users/4572126/hammad-allauddin
 [facebook]: https://facebook.com/hammadallauddin
 [reddit]: https://www.reddit.com/user/hammadallauddin
+[youtube]: https://www.youtube.com/channel/UCvhQlIAHzLNIJMP10Wkflaw
