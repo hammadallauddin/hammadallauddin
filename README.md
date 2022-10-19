@@ -7,7 +7,7 @@
 - 💼 Working as a Software Engineer at Careem.
 
 ### Connect with me:
-</br>
+
 [<img align="left" alt="hammadallauddin | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hammadallauddin | Reddit" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
