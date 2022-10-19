@@ -9,11 +9,13 @@
 ### Connect with me:
 
 [<img align="left" alt="hammadallauddin | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="hammadallauddin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hammadallauddin | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="hammadallauddin | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hammadallauddin | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="hammadallauddin | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hammadallauddin | Reddit" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="hammadallauddin | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
+[<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -34,8 +36,8 @@
 ---
 
 [twitter]: https://twitter.com/hammadallauddin
-[instagram]: https://instagram.com/hammadallauddin
-[instagram]: https://instagram.com/code_eat_explore
+[instagram1]: https://instagram.com/hammadallauddin
+[instagram2]: https://instagram.com/code_eat_explore
 [linkedin]: https://linkedin.com/in/hammadallauddin
 [stackoverflow]: https://stackoverflow.com/users/4572126/hammad-allauddin
 [facebook]: https://facebook.com/hammadallauddin
