@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hammadallauddin | Stackoverflow" width="40px" src="https://img.icons8.com/dusk/344/code.png" />][stackoverflow]
+[<img align="left" alt="hammadallauddin | Stackoverflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 [<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
 [<img align="left" alt="hammadallauddin | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="hammadallauddin | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram1]
