@@ -17,7 +17,7 @@
 [<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
+<br /><br /><br />
 
 ### Languages and Tools:
 <img align="left" alt="AWS" width="50px" height="50px" src="https://yt3.ggpht.com/ytc/AMLnZu9BB7k3jVVzN5ZNKzKQhbkdl80vfA1E7S8clu84Hg=s900-c-k-c0x00ffffff-no-rj" />
@@ -30,6 +30,8 @@
 <img align="left" alt="Jenkins" width="40px" height="40px" src="https://www.pngitem.com/pimgs/m/340-3408094_jenkins-ci-hd-png-download.png" />
 <img align="left" alt="Kibana" width="40px" height="40px" src="https://miro.medium.com/max/400/1*8j8fs_OnB1cnjQ1CbEbZkA.png" />
 <img align="left" alt="Grafana" width="40px" height="40px" src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" />
+<br />
+<br />
 <br />
 <br />
 
