@@ -44,4 +44,4 @@
 [stackoverflow]: https://stackoverflow.com/users/4572126/hammad-allauddin
 [facebook]: https://facebook.com/hammadallauddin
 [reddit]: https://www.reddit.com/user/hammadallauddin
-[youtube]: https://www.youtube.com/channel/UCvhQlIAHzLNIJMP10Wkflaw
+[youtube]: https://www.youtube.com/@code_eat_travel
