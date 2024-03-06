@@ -4,7 +4,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studied Data Science and Software Engineering from NED University of Engineering and Technology.
-- 💼 Working as a Software Engineer at Careem.
+- 💼 Working as a Senior Software Engineer at Careem.
 
 ### Connect with me:
 
