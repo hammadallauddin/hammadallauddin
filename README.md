@@ -11,7 +11,7 @@
 
 [<img align="left" alt="hammadallauddin | Stackoverflow" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lFoa0Sm0rmiXRESI9fAAcrQ97kriTr8RKg&s" />][stackoverflow]
 [<img align="left" alt="hammadallauddin | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
-[<img align="left" alt="hammadallauddin | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="hammadallauddin | X" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" />][x]
 [<img align="left" alt="hammadallauddin | Personal Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram1]
 [<img align="left" alt="hammadallauddin | Code/Eat/Explore Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram2]
 [<img align="left" alt="hammadallauddin | Facebook" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />][facebook]
@@ -32,7 +32,7 @@
 
 ---
 
-[twitter]: https://twitter.com/hammadallauddin
+[x]: https://x.com/hammadallauddin
 [instagram1]: https://instagram.com/hammadallauddin
 [instagram2]: https://instagram.com/code_eat_explore
 [linkedin]: https://linkedin.com/in/hammadallauddin
