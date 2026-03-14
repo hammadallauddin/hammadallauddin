@@ -1,10 +1,12 @@
 ### Hello, I am Hammad!
 
-## I'm a Software Engineer and Data Science Enthousiast!
+## I'm a Senior Software Engineer building scalable systems and exploring AI agents with LangChain & LangGraph!
 
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studied Data Science and Software Engineering from NED University of Engineering and Technology.
-- 💼 Working as a Senior Software Engineer at Careem.
+- 🔭 Currently developing AI side projects using **LangChain**, **LangGraph**, and **Python**, while leveraging my backend expertise in **Go**, **AWS**, and **Spring Boot**.
+- 🌱 Deepening my knowledge of LLM orchestration, retrieval-augmented generation (RAG), and agentic workflows.
+- 👯 Looking to collaborate on open-source AI projects and innovative agent-based applications.
+- 🎓 Studied Data Science and Software Engineering at NED University of Engineering and Technology.
+- 💼 Working as a Senior Software Engineer at **Careem**, building highly scalable backend systems.
 
 ### Connect with me:
 
