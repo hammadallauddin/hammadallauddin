@@ -1,8 +1,8 @@
 ### Hello, I am Hammad!
 
-## I'm a Senior Software Engineer building scalable backend systems and AI-powered applications at Careem!
+## I'm a Senior Software Engineer building Scalable Backend Systems and AI-Powered Applications at Careem!
 
-- 🔭 **Currently:** Building scalable systems and AI-powered features at **Careem** using Go and AWS. Working with **LangChain**, **LangGraph**, and Python to integrate LLMs and agentic workflows into production.
+- 🔭 **Currently:** Building Scalable Systems and AI-Powered features at **Careem** using Go and AWS. Working with **LangChain**, **LangGraph**, and Python to integrate LLMs and agentic workflows into production.
 - 🌱 Deepening my expertise in LLM orchestration, retrieval-augmented generation (RAG), and agent-based architectures.
 - 👯 Looking to collaborate on open-source AI projects and innovative agentic applications.
 - 🎓 Studied Data Science and Software Engineering at NED University of Engineering and Technology.
