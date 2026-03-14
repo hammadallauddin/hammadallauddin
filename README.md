@@ -23,8 +23,8 @@
 <img align="left" alt="AWS" width="50px" height="50px" src="https://yt3.ggpht.com/ytc/AMLnZu9BB7k3jVVzN5ZNKzKQhbkdl80vfA1E7S8clu84Hg=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Go" width="50px" height="50px" src="https://cdn5.vectorstock.com/i/1000x1000/77/94/golang-emblem-blue-gopher-vector-27827794.jpg" />
 <img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="LangChain" width="50px" height="50px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" />
-<img align="left" alt="LangGraph" width="50px" height="50px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" />
+<img align="left" alt="LangChain" width="50px" height="50px" src="https://miro.medium.com/v2/resize:fit:1400/1*7Zx5IHNiz3U7GZ64wEuESg.png" />
+<img align="left" alt="LangGraph" width="50px" height="50px" src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" />
 <br />
 <br />
 <br />
