@@ -21,10 +21,8 @@
 
 ### Languages and Tools:
 <img align="left" alt="AWS" width="50px" height="50px" src="https://yt3.ggpht.com/ytc/AMLnZu9BB7k3jVVzN5ZNKzKQhbkdl80vfA1E7S8clu84Hg=s900-c-k-c0x00ffffff-no-rj" />
-<img align="left" alt="Go" width="50px" height="50px" src="https://cdn5.vectorstock.com/i/1000x1000/77/94/golang-emblem-blue-gopher-vector-27827794.jpg" />
+<img align="left" alt="Go" width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4R6Onnj9LjrOnfjqvJz832dZQwr5dWjm_C7BaFJBmDXX4d_y7nxi2wC9&s=10" />
 <img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="LangChain" width="50px" height="50px" src="https://opensource.muenchen.de/logo/langchain.jpg" />
-<img align="left" alt="LangGraph" width="50px" height="50px" src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" />
 <br />
 <br />
 <br />
