@@ -23,7 +23,8 @@
 <img align="left" alt="AWS" width="50px" height="50px" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" />
 <img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Go" width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4R6Onnj9LjrOnfjqvJz832dZQwr5dWjm_C7BaFJBmDXX4d_y7nxi2wC9&s=10" />
-<img align="left" alt="LangChain" width="50px" height="50px" src="https://seeklogo.com/vector-logo/611656/langchain-icon-white" />
+<img align="left" alt="Java" width="50px" height="50px" src="https://images.seeklogo.com/logo-png/15/1/java-logo-png_seeklogo-158094.png" />
+<img align="left" alt="LangChain" width="50px" height="50px" src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" />
 <img align="left" alt="Spring Boot" width="50px" height="50px" src="https://images.seeklogo.com/logo-png/56/2/spring-boot-logo-png_seeklogo-569088.png" />
 <br />
 <br />
